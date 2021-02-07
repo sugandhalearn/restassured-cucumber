@@ -125,6 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: SimpleTest" />
+      <item itemvalue="Cucumber java.Scenario: Verify one planet of the swapi API." />
+      <item itemvalue="Cucumber java.Feature: SimpleTest (1)" />
+      <item itemvalue="JUnit.TestRunner" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestRunner" />
@@ -169,22 +175,22 @@
       <screen x="0" y="23" width="1792" height="998" />
     </state>
     <state x="666" y="284" key="FileChooserDialogImpl/0.23.1792.998@0.23.1792.998" timestamp="1612717671769" />
-    <state width="1714" height="270" key="GridCell.Tab.0.bottom" timestamp="1612720383950">
+    <state width="1714" height="270" key="GridCell.Tab.0.bottom" timestamp="1612730004031">
       <screen x="0" y="23" width="1792" height="998" />
     </state>
-    <state width="1714" height="270" key="GridCell.Tab.0.bottom/0.23.1792.998@0.23.1792.998" timestamp="1612720383950" />
-    <state width="1714" height="270" key="GridCell.Tab.0.center" timestamp="1612720383949">
+    <state width="1714" height="270" key="GridCell.Tab.0.bottom/0.23.1792.998@0.23.1792.998" timestamp="1612730004031" />
+    <state width="1714" height="270" key="GridCell.Tab.0.center" timestamp="1612730004030">
       <screen x="0" y="23" width="1792" height="998" />
     </state>
-    <state width="1714" height="270" key="GridCell.Tab.0.center/0.23.1792.998@0.23.1792.998" timestamp="1612720383949" />
-    <state width="1714" height="270" key="GridCell.Tab.0.left" timestamp="1612720383949">
+    <state width="1714" height="270" key="GridCell.Tab.0.center/0.23.1792.998@0.23.1792.998" timestamp="1612730004030" />
+    <state width="1714" height="270" key="GridCell.Tab.0.left" timestamp="1612730004030">
       <screen x="0" y="23" width="1792" height="998" />
     </state>
-    <state width="1714" height="270" key="GridCell.Tab.0.left/0.23.1792.998@0.23.1792.998" timestamp="1612720383949" />
-    <state width="1714" height="270" key="GridCell.Tab.0.right" timestamp="1612720383949">
+    <state width="1714" height="270" key="GridCell.Tab.0.left/0.23.1792.998@0.23.1792.998" timestamp="1612730004030" />
+    <state width="1714" height="270" key="GridCell.Tab.0.right" timestamp="1612730004030">
       <screen x="0" y="23" width="1792" height="998" />
     </state>
-    <state width="1714" height="270" key="GridCell.Tab.0.right/0.23.1792.998@0.23.1792.998" timestamp="1612720383949" />
+    <state width="1714" height="270" key="GridCell.Tab.0.right/0.23.1792.998@0.23.1792.998" timestamp="1612730004030" />
     <state x="416" y="184" key="Maven.ArtifactSearchDialog" timestamp="1612701319427">
       <screen x="0" y="23" width="1792" height="998" />
     </state>
