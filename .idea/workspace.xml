@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81a580d1-e207-48d7-b355-a779869a0711" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="1o9IS4xbu5YbFR5GVbEfkZbsaKw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="runners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: SimpleTest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/SimpleTest.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="restAssured-cucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SimpleTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify one planet of the swapi API." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/SimpleTest.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="restAssured-cucumber" />
+      <option name="NAME_FILTER" value="^Verify one planet of the swapi API\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify one planet of the swapi API\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify one planet of the swapi API." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_251" />
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Feature: SimpleTest" />
+        <item itemvalue="Cucumber java.Scenario: Verify one planet of the swapi API." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a580d1-e207-48d7-b355-a779869a0711" name="Default Changelist" comment="" />
+      <created>1612692375099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612692375099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="183" key="#" timestamp="1612703615990">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="439" y="183" key="#/0.23.1792.998@0.23.1792.998" timestamp="1612703615990" />
+    <state x="439" y="183" key="#TestRunner" timestamp="1612703609129">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="439" y="183" key="#TestRunner/0.23.1792.998@0.23.1792.998" timestamp="1612703609129" />
+    <state x="616" y="284" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1612693592683">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="616" y="284" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1792.998@0.23.1792.998" timestamp="1612693592683" />
+    <state x="616" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612699854713">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="616" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.998@0.23.1792.998" timestamp="1612699854713" />
+    <state width="1714" height="270" key="GridCell.Tab.0.bottom" timestamp="1612703495089">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1714" height="270" key="GridCell.Tab.0.bottom/0.23.1792.998@0.23.1792.998" timestamp="1612703495089" />
+    <state width="1714" height="270" key="GridCell.Tab.0.center" timestamp="1612703495088">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1714" height="270" key="GridCell.Tab.0.center/0.23.1792.998@0.23.1792.998" timestamp="1612703495088" />
+    <state width="1714" height="270" key="GridCell.Tab.0.left" timestamp="1612703495088">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1714" height="270" key="GridCell.Tab.0.left/0.23.1792.998@0.23.1792.998" timestamp="1612703495088" />
+    <state width="1714" height="270" key="GridCell.Tab.0.right" timestamp="1612703495088">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1714" height="270" key="GridCell.Tab.0.right/0.23.1792.998@0.23.1792.998" timestamp="1612703495088" />
+    <state x="416" y="184" key="Maven.ArtifactSearchDialog" timestamp="1612701319427">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="416" y="184" key="Maven.ArtifactSearchDialog/0.23.1792.998@0.23.1792.998" timestamp="1612701319427" />
+    <state x="379" y="161" key="SettingsEditor" timestamp="1612701032281">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="379" y="161" key="SettingsEditor/0.23.1792.998@0.23.1792.998" timestamp="1612701032281" />
+    <state x="635" y="450" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1612693549316">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="635" y="450" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1792.998@0.23.1792.998" timestamp="1612693549316" />
+  </component>
+</project>
