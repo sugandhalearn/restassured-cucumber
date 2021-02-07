@@ -1,11 +1,12 @@
-Feature: Verify get operations using REST-assured.
+Feature: To validate the functionality of swapi API Playground
+  As a Tester
+  I want to verify following scenarios are working as expected
 
-  Scenario: Verify one planet of the swapi API.
-    Given I perform GET operation for "/planet"
-    And I perform GET for the planet "3"
+  Scenario Outline: Validate all the endpoints in API Playground should return 200 response
+    Given I perform GET operation for "<endpoint>" number "<number>"
+    And I receive status "<status>"
+    Examples:
+      |  endpoint   |number |status|
+      |  planets    |3      |  200 |
+      |  people     |1      |  200 |
 
-
-
-  Scenario: Verify one planet of the swapi API.
-    Given I perform GET operation for "/people"
-    And I perform GET for the people "1"
